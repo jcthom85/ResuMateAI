@@ -1,0 +1,5 @@
+{
+  "name": "ResuMate AI",
+  "description": "An intelligent career assistant that tailors your Markdown resume to specific job descriptions, conducts fit-gap analysis interviews, and generates targeted outreach using Gemini 3 Pro.",
+  "requestFramePermissions": []
+}
